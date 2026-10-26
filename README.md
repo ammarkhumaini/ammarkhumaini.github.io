@@ -5,7 +5,7 @@
 
 ### First-Year Data Engineering Student at UTM
 
-<img src="YOUR_IMAGE_URL_HERE" alt="Ammar Khumaini" width="150" style="border-radius: 50%;" />
+<img src="/images/profile.png" alt="Ammar Khumaini" width="150" style="border-radius: 50%;" />
 
 *Learning, building, and exploring the world of data.*
 
@@ -47,9 +47,8 @@
 
 ## 📫 Connect With Me
 
-- **GitHub:** [YOUR_GITHUB_USERNAME](https://github.com/YOUR_GITHUB_USERNAME)
-- **Email:** YOUR_EMAIL@example.com
-
+- **GitHub:** [ammarkhumaini](https://github.com/ammarkhumaini)
+- **Email:** ammarkhumaini@graduate.utm.my
 ---
 
 <div align="center">
